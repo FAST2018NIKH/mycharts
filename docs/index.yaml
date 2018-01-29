@@ -1,12 +1,48 @@
 apiVersion: v1
 entries:
+  loyaltylevelchart:
+  - apiVersion: v1
+    created: 2018-01-29T03:12:41.476682436-08:00
+    description: A Helm chart for Kubernetes
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    name: loyaltylevelchart
+    urls:
+    - https://wtistangdev.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-01-29T02:58:49.712613114-08:00
+    created: 2018-01-29T03:12:41.477072143-08:00
     description: A Helm chart for Kubernetes
     digest: c3bb8bbeeb1df72d1b59769a4f1750b79e6a1861c78f04c38a2184591e515a1d
     name: notificationchart
     urls:
-    - https://niklaushirt.github.io/mycharts/notificationchart-0.1.0.tgz
+    - https://wtistangdev.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-01-29T02:58:49.711805639-08:00
+  portfoliochart:
+  - apiVersion: v1
+    created: 2018-01-29T03:12:41.477460606-08:00
+    description: A Helm chart for Kubernetes
+    digest: ea67ecda147d73a25b19599f7a80deccd43c2b09006818ee9bd0816d0255bdb0
+    name: portfoliochart
+    urls:
+    - https://wtistangdev.github.io/mycharts/portfoliochart-0.1.0.tgz
+    version: 0.1.0
+  stockquotechart:
+  - apiVersion: v1
+    created: 2018-01-29T03:12:41.47765421-08:00
+    description: A Helm chart for Kubernetes
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    name: stockquotechart
+    urls:
+    - https://wtistangdev.github.io/mycharts/stockquotechart-0.1.0.tgz
+    version: 0.1.0
+  traderchart:
+  - apiVersion: v1
+    created: 2018-01-29T03:12:41.478110435-08:00
+    description: A Helm chart for Kubernetes
+    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    name: traderchart
+    urls:
+    - https://wtistangdev.github.io/mycharts/traderchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-29T03:12:41.476008707-08:00
